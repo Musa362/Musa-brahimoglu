@@ -10,7 +10,7 @@ Işık Üniversitesi'nde *Bilişim Güvenliği Teknolojisi* bölümünde öğren
 
 | Kategori | Konular/Teknolojiler | Durum/Kaynak |
 | :--- | :--- | :--- |
-| *Programlama Dilleri* | C, C#, Java , Siber güvenliğe giriş,Bilgi teknolojilerine giriş| BTK Akademi ve Üniversite Dersleri (Aktif Öğrenci) |
+| *Aktif olarak aldığım eğitimler* | C, C#, Java , Siber güvenliğe giriş,Bilgi teknolojilerine giriş| BTK Akademi ve Üniversite Dersleri (Aktif Öğrenci) |
 | *Eğitim*| Bilişim Güvenliği Teknolojisi | Işık Üniversitesi (Aktif Öğrenci) |
 | *Online Platform*| BTK Akademi | Sürekli ve disiplinli eğitim alıyorum. |
 
